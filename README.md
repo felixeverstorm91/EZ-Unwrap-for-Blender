@@ -30,4 +30,8 @@ This project is licensed under the **AGPL-3.0** License – see the [LICENSE](LI
 
 ---
 
-💡 *If you find this tool helpful, consider checking out the `Voluntary TipJar.txt` for support options!*
+## 💖 Support
+
+If you’d like to support development, you can leave **[Voluntary Tips](https://www.paypal.me/JoeLucasWearsPants)** via PayPal.  
+Thank you for helping keep this project alive!
+
