@@ -1,0 +1,7 @@
+If you do not like Cyan, you can navigate to line 72 in the code, and adjust the RGBA colour values. The line looks like this:
+
+        bsdf_node.inputs['Base Color'].default_value = (0.0, 1.0, 1.0, 1.0)  # Cyan RGBA
+
+For Chroma-Key Green, simply paste this in place of line 72:
+
+        bsdf_node.inputs['Base Color'].default_value = (0.0, 0.694, 0.251, 1.0)  # Chroma RGBA
