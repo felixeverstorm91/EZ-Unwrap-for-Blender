@@ -25,9 +25,6 @@ It combines multiple unwrap tools into one action, and highlights unwrapped mesh
 3. Open the **UV menu > Unwrap > EZ Unwrap**.  
 4. Your selection will be unwrapped and assigned a cyan-highlighted material.
 
-## 📸 Screenshots
-_Add a screenshot or GIF here showing the menu entry and the cyan material applied._
-
 ## 📜 License
 This project is licensed under the **AGPL-3.0** License – see the [LICENSE](LICENSE) file for details.
 
