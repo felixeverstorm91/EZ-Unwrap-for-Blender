@@ -11,12 +11,13 @@ It combines multiple unwrap tools into one action, and highlights unwrapped mesh
 - Material is automatically colored **cyan** for easy visual confirmation
 
 ## 📥 Installation
-1. Download **EZ-Unwrap.py** from this repository.  
-2. Open Blender.  
-3. Go to **Edit > Preferences > Add-ons**.  
-4. Click **Install...** in the top-right.  
-5. Select the `EZ-Unwrap.py` file.  
-6. Enable the checkbox next to **EZ-Unwrap** in the add-ons list.
+1. Download **EZ-Unwrap.py** from this repository.
+2. If you can not download it directly, copy the text of the code into a notepad page, and save it as EZ-Unwrap.py 
+3. Open Blender.  
+4. Go to **Edit > Preferences > Add-ons**.  
+5. Click **Install...** in the top-right.  
+6. Select the `EZ-Unwrap.py` file.  
+7. Enable the checkbox next to **EZ-Unwrap** in the add-ons list.
 
 ## 🛠 Usage
 1. Select your mesh and switch to **Edit Mode**.  
