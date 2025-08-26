@@ -1,4 +1,35 @@
-# EZ-Unwrap-for-Blender
-An easy unwrap function for Blender which combines: Lightmap Pack, Follow Active Quads (if possible, otherwise skip), Pack Islands, assigns the material cyan color for visual confirmation, and generates an eight-digit randomized alpha-numeric name.
+# EZ-Unwrap for Blender
 
-INSTALL: In Blender, go to EDIT in the upper left, and navigate down to PREFERENCES. Within Preferences, you will click on "Add-ons" From here, click the small downward-pointing arrow in the right hand side of the Preferences window, and click "Install From Disk" navigate to EZ-Unwrap.py and select it for installation.
+EZ Unwrap is a Blender add-on that simplifies UV unwrapping for Second Life and other workflows.  
+It combines multiple unwrap tools into one action, and highlights unwrapped meshes with a cyan material.
+
+## ✨ Features
+- Runs **Follow Active Quads** (if possible, otherwise skips)
+- Falls back to **Lightmap Pack** if needed
+- Runs **Pack Islands**
+- Clears old materials and assigns a **new random-named material**
+- Material is automatically colored **cyan** for easy visual confirmation
+
+## 📥 Installation
+1. Download **EZ-Unwrap.py** from this repository.  
+2. Open Blender.  
+3. Go to **Edit > Preferences > Add-ons**.  
+4. Click **Install...** in the top-right.  
+5. Select the `EZ-Unwrap.py` file.  
+6. Enable the checkbox next to **EZ-Unwrap** in the add-ons list.
+
+## 🛠 Usage
+1. Select your mesh and switch to **Edit Mode**.  
+2. Select the faces you want to unwrap.  
+3. Open the **UV menu > Unwrap > EZ Unwrap**.  
+4. Your selection will be unwrapped and assigned a cyan-highlighted material.
+
+## 📸 Screenshots
+_Add a screenshot or GIF here showing the menu entry and the cyan material applied._
+
+## 📜 License
+This project is licensed under the **AGPL-3.0** License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+💡 *If you find this tool helpful, consider checking out the `Voluntary TipJar.txt` for support options!*
