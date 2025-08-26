@@ -3,6 +3,10 @@
 EZ Unwrap is a Blender add-on that simplifies UV unwrapping for Second Life and other workflows.  
 It combines multiple unwrap tools into one action, and highlights unwrapped meshes with a cyan material.
 
+## 🖥️ Compatibility
+- Compiled under Blender 3,0,0. This tool has been tested to Blender version 4,5,0.
+- No guaranteed support for versions of Blender pre-3,0,0
+
 ## ✨ Features
 - Runs **Follow Active Quads** (if possible, otherwise skips)
 - Falls back to **Lightmap Pack** if needed
