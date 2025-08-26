@@ -24,10 +24,12 @@ It combines multiple unwrap tools into one action, and highlights unwrapped mesh
 7. Enable the checkbox next to **EZ-Unwrap** in the add-ons list.
 
 ## 🛠 Usage
-1. Select your mesh and switch to **Edit Mode**.  
-2. Select the faces you want to unwrap.  
-3. Open the **UV menu > Unwrap > EZ Unwrap**.  
-4. Your selection will be unwrapped and assigned a cyan-highlighted material.
+1. Select your mesh and switch to **Edit Mode**.
+2. Select the individual faces to part them from the model with the P key.
+3. Tab back to **Object Mode** Select the part you wish to unwrap, and Tab back to **Edit Mode**
+4. Select the faces you want to unwrap.  
+5. Open the **UV menu > Unwrap > EZ Unwrap**.  
+6. Your selection will be unwrapped and assigned a cyan-highlighted material.
 
 ## 📜 License
 This project is licensed under the **AGPL-3.0** License – see the [LICENSE](LICENSE) file for details.
