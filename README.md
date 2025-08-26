@@ -5,7 +5,7 @@ It combines multiple unwrap tools into one action, and highlights unwrapped mesh
 
 ## 🖥️ Compatibility
 - Compiled for Blender 3.0. Tested with versions up to Blender 4.5.
-- No guaranteed support for versions of Blender pre-3,0,0
+- No guaranteed support for versions of Blender pre-3.0.
 
 ## ✨ Features
 - Runs **Follow Active Quads** (if possible, otherwise skips)
